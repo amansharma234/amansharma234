@@ -1,14 +1,14 @@
 # Welcome to My GitHub Profile! 🚀
 
-Hey there! 👋 I'm [Your Name], a passionate developer and explorer of the digital realm. 🌐✨
+Hey there! 👋 I'm Aman, a passionate developer and explorer of the digital realm. 🌐✨
 
 ## About Me 🌟
 
-I'm on a journey to make the digital world more exciting and user-friendly. My expertise includes [list your skills or technologies you're passionate about]. When I'm not coding, you'll find me [mention a hobby or interest].
+I'm on a journey to make the digital world more exciting and user-friendly. My expertise includes Frontend Web Development. When I'm not coding, you'll find me sketching and making portraits.
 
 ## 🚀 My Mission
 
-I'm on a mission to [describe your mission or goal in a few sentences]. Let's make the tech world more awesome together! 💻🌈
+I'm on a mission to  . Let's make the tech world more awesome together! 💻🌈
 
 ## 🛠️ Tech Stack
 
