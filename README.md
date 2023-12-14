@@ -26,7 +26,7 @@ Feel free to check out my repositories and contribute if you find something inte
 
 ## 🔗 Connect with Me
 
-- LinkedIn: [www.linkedin.com/in/amansharma234](@amansharma234)
+- LinkedIn: [@amansharma234](www.linkedin.com/in/amansharma234)
 - Twitter: [https://twitter.com/aman_dev234](@aman_dev234)
 
 Let's connect and collaborate! 🤝
