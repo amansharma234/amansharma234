@@ -8,15 +8,15 @@ I'm on a journey to make the digital world more exciting and user-friendly. My e
 
 ## 🚀 My Mission
 
-I'm on a mission to  . Let's make the tech world more awesome together! 💻🌈
+I'm on a mission to contribute to the coding community and be someone I can be proud of . Let's make the tech world more awesome together! 💻🌈
 
 ## 🛠️ Tech Stack
 
 Here are some of the technologies I love to work with:
 
-- 💻 Languages: [list your favorite programming languages]
-- 🚀 Frameworks: [mention your preferred frameworks]
-- 🌐 Web Technologies: [list web-related technologies]
+- 💻 Languages: C++ , JavaScript
+- 🚀 Frameworks and Libraries: React.JS, BootStrap
+- 🌐 Web Technologies: HTML, CSS, JavaScript
 
 ## 📈 GitHub Stats
 
@@ -26,16 +26,16 @@ Feel free to check out my repositories and contribute if you find something inte
 
 ## 🔗 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](link-to-your-linkedin)
-- Twitter: [@YourTwitterHandle](link-to-your-twitter)
+- LinkedIn: [www.linkedin.com/in/amansharma234](@amansharma234)
+- Twitter: [https://twitter.com/aman_dev234](@aman_dev234)
 
 Let's connect and collaborate! 🤝
 
 ## 🌈 Fun Facts
 
-- I love [mention something fun or quirky about yourself].
-- My coding fuel is [your favorite snack or beverage].
-- Fun fact: [share an interesting fact about yourself].
+- I love talking about DHH 🎙️ and Anime 🍜.
+- My coding fuel is Coffee☕🧋.
+- Fun fact: My Genjutsu so Strong I am trapped forever inside it🥲.
 
 ## 🎉 Let's Collaborate!
 
